@@ -269,7 +269,7 @@
       "url": "https://dev.azure.com/msazure/OneAgile/_git/power-platform-ux"
     },
     {
-      "url": "https://msazure.visualstudio.com/OneAgile/_git/PowerApps-Client"
+      "url": "https://msazure.visualstudio.com/OneAgile/_git/PowerApps-Client",
     },
     {
       "url": "https://msazure.visualstudio.com/One/_git/PowerApps-WebAuth"
@@ -281,6 +281,10 @@
       "url": "https://github.com/jack-work/neovim-configuration-windows",
       "destination": "%LOCALAPPDATA%/nvim",
       "notCreateChildDir": true
+    },
+    {
+      "url": "https://github.com/jack-work/aichat",
+      "destination": "%APPDATA%/"
     },
     {
       "url": "https://github.com/jack-work/PowerShell",

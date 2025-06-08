@@ -1,0 +1,34 @@
+{
+  "scoopPackages": [
+    {
+      "name": "git",
+      "bucket": "main",
+      "description": "A distributed version control system",
+      "category": "development"
+    },
+    {
+      "name": "vscode",
+      "bucket": "extras",
+      "description": "Lightweight but powerful source code editor",
+      "category": "development"
+    },
+    {
+      "name": "dotnet-sdk",
+      "bucket": "main",
+      "description": ".NET SDK for building .NET applications",
+      "category": "development"
+    },
+    {
+      "name": "nodejs",
+      "bucket": "main",
+      "description": "JavaScript runtime built on Chrome's V8 JavaScript engine",
+      "category": "development"
+    },
+    {
+      "name": "nvm",
+      "bucket": "main",
+      "description": "Node.js version manager for Windows",
+      "category": "development"
+    }
+  ]
+}
