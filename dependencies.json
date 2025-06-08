@@ -1,0 +1,290 @@
+{
+  "manualEnvVar": [
+    "OPENAI_API_KEY",
+    "ANTHROPIC_API_KEY",
+    "CLAUDE_API_KEY",
+    "GOOGLE_API_KEY"
+  ],
+  "edgeExtensions": [
+    {
+      "url": "https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo",
+      "name": "vimium"
+    },
+    {
+      "url": "https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak?",
+      "name": "vimium"
+    },
+    {
+      "url": "https://microsoftedge.microsoft.com/addons/detail/1password-%E2%80%93-password-mana/dppgmdbiimibapkepcbdbmkaabgiofem",
+      "name": "1password"
+    }
+  ],
+  "scoopPackages": [
+    {
+      "name": "aichat",
+      "bucket": "main",
+      "description": "AI chat client for command line",
+      "category": "ai"
+    },
+    {
+      "name": "fzf",
+      "bucket": "main",
+      "description": "Fuzzy finder for command line",
+      "category": "utility"
+    },
+    {
+      "name": "ripgrep",
+      "bucket": "main",
+      "description": "Fast text search tool",
+      "category": "utility"
+    },
+    {
+      "name": "autohotkey",
+      "bucket": "extras",
+      "description": "Automation scripting language",
+      "category": "automation"
+    },
+    {
+      "name": "python",
+      "bucket": "main",
+      "description": "Python programming language",
+      "category": "development"
+    },
+    {
+      "name": "nodejs",
+      "bucket": "main",
+      "description": "Node.js JavaScript runtime",
+      "category": "development"
+    },
+    {
+      "name": "lua-language-server",
+      "bucket": "main",
+      "description": "Lua language server",
+      "category": "development"
+    },
+    {
+      "name": "dotnet-sdk",
+      "bucket": "main",
+      "description": ".NET SDK",
+      "category": "development"
+    },
+    {
+      "name": "omnisharp",
+      "bucket": "main",
+      "description": "C# language server",
+      "category": "development"
+    },
+    {
+      "name": "git",
+      "bucket": "main",
+      "description": "Git version control system",
+      "category": "development"
+    },
+    {
+      "name": "gh",
+      "bucket": "main",
+      "description": "GitHub CLI",
+      "category": "development"
+    },
+    {
+      "name": "neovim",
+      "bucket": "main",
+      "description": "Modern Vim-based text editor",
+      "category": "editor"
+    },
+    {
+      "name": "vscode",
+      "bucket": "extras",
+      "description": "Visual Studio Code editor",
+      "category": "editor"
+    },
+    {
+      "name": "llvm",
+      "bucket": "main",
+      "description": "LLVM compiler infrastructure",
+      "category": "development"
+    },
+    {
+      "name": "gcc",
+      "bucket": "main",
+      "description": "GNU Compiler Collection",
+      "category": "development"
+    },
+    {
+      "name": "zig",
+      "bucket": "main",
+      "description": "Zig programming language",
+      "category": "development"
+    },
+    {
+      "name": "go",
+      "bucket": "main",
+      "description": "Go programming language",
+      "category": "development"
+    },
+    {
+      "name": "terraform",
+      "bucket": "main",
+      "description": "Infrastructure as Code tool",
+      "category": "development"
+    },
+    {
+      "name": "azure-cli",
+      "bucket": "main",
+      "description": "Azure Command Line Interface",
+      "category": "cloud"
+    },
+    {
+      "name": "jq",
+      "bucket": "main",
+      "description": "JSON processor",
+      "category": "utility"
+    },
+    {
+      "name": "yq",
+      "bucket": "main",
+      "description": "YAML processor",
+      "category": "utility"
+    },
+    {
+      "name": "bat",
+      "bucket": "main",
+      "description": "Cat clone with syntax highlighting",
+      "category": "utility"
+    },
+    {
+      "name": "fd",
+      "bucket": "main",
+      "description": "Simple, fast find alternative",
+      "category": "utility"
+    },
+    {
+      "name": "delta",
+      "bucket": "main",
+      "description": "Syntax-highlighting pager for git",
+      "category": "utility"
+    },
+    {
+      "name": "lazygit",
+      "bucket": "main",
+      "description": "Terminal UI for git commands",
+      "category": "development"
+    },
+    {
+      "name": "hugo",
+      "bucket": "main",
+      "description": "Static site generator",
+      "category": "development"
+    },
+    {
+      "name": "pandoc",
+      "bucket": "main",
+      "description": "Universal document converter",
+      "category": "utility"
+    },
+    {
+      "name": "7zip",
+      "bucket": "main",
+      "description": "File archiver",
+      "category": "utility"
+    },
+    {
+      "name": "curl",
+      "bucket": "main",
+      "description": "Command line HTTP client",
+      "category": "utility"
+    },
+    {
+      "name": "wget",
+      "bucket": "main",
+      "description": "Web file downloader",
+      "category": "utility"
+    },
+    {
+      "name": "powertoys",
+      "bucket": "extras",
+      "description": "Microsoft PowerToys utilities",
+      "category": "utility"
+    },
+    {
+      "name": "wezterm",
+      "bucket": "extras",
+      "description": "GPU-accelerated cross-platform terminal emulator",
+      "category": "terminal"
+    },
+    {
+      "name": "windows-terminal",
+      "bucket": "extras",
+      "description": "Windows Terminal",
+      "category": "terminal"
+    },
+    {
+      "name": "windows-terminal",
+      "bucket": "extras",
+      "description": "Windows Terminal",
+      "category": "terminal"
+    },
+    {
+      "name": "FiraCode-NF",
+      "bucket": "nerd-fonts",
+      "description": "Nerd font",
+      "category": "terminal"
+    }
+  ],
+  "wingetPackages": [
+    "JanDeDobbeleer.OhMyPosh"
+  ],
+  "npmPackages": [
+    {
+      "name": "vscode-langservers-extracted",
+      "description": "Language servers extracted from VSCode",
+      "category": "language-server"
+    },
+    {
+      "name": "typescript-language-server",
+      "description": "TypeScript language server",
+      "category": "language-server"
+    }
+  ],
+  "buckets": [
+    {
+      "name": "extras",
+      "description": "Additional Scoop packages"
+    },
+    {
+      "name": "versions",
+      "description": "Alternative versions of packages"
+    },
+    {
+      "name": "nerd-fonts",
+      "description": "Nerd Fonts collection"
+    },
+    {
+      "name": "nonportable",
+      "description": "Non-portable applications"
+    }
+  ],
+  "repositories": [
+    {
+      "url": "https://dev.azure.com/msazure/OneAgile/_git/power-platform-ux"
+    },
+    {
+      "url": "https://msazure.visualstudio.com/OneAgile/_git/PowerApps-Client"
+    },
+    {
+      "url": "https://msazure.visualstudio.com/One/_git/PowerApps-WebAuth"
+    },
+    {
+      "url": "https://msazure.visualstudio.com/OneAgile/_git/TriageTools"
+    },
+    {
+      "url": "https://github.com/jack-work/neovim-configuration-windows",
+      "destination": "%LOCALAPPDATA%/nvim",
+      "notCreateChildDir": true
+    },
+    {
+      "url": "https://github.com/jack-work/PowerShell",
+      "destination": "~/Documents/"
+    }
+  ]
+}
